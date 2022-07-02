@@ -58,3 +58,38 @@
     #home a{
         color: #2549D3;
     }
+
+    .help{
+        display: flex;
+        justify-content:space-around;
+        height: 500px;
+        align-items: center;
+    
+    }
+    
+    .header h2{
+        font-size: 64px;
+        color: #2549D3;
+    
+    }
+    
+    p{
+        font-size: 24px;
+        padding-top: 15px;
+        padding-bottom: 30px;
+    }
+    
+    .learnmore{
+    
+        background-color: #2549D3;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+        border: none;
+    
+    }
+    
+    .image1 img{
+    
+        width: 550px;
+    }

@@ -104,3 +104,26 @@
     
     
     }
+    span{
+        color: #000;
+    }
+    
+    .box ul{
+        padding-top: 9em;
+        padding-left: 20em;
+        display: flex; 
+        gap: 300px;
+        list-style: none;
+        color: #2549D3;
+    
+    }
+    .search{
+        background-color: #2549D3;
+        color: white;
+        padding: 10px;
+        padding-left: 40px;
+        border-radius: 10px;
+        border: none;
+    
+    
+    }

@@ -244,4 +244,20 @@
         background: white;
         color: blue;
     }
+
+    .properties{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 400px;
+        text-align: center;
+        justify-content: end;
+    
+    }
+    
+    
+    .properties h3{
+        color: #2549D3;
+        font-size: 45px;
+    }
    

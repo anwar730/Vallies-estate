@@ -343,6 +343,23 @@
         
     }
     
+
+    .last-box ul{
+        margin-top: 40px;
+        padding-top: 50px;
+        display: flex;
+        justify-content: space-around;
+        list-style: none;
+        border: solid;
+        background-color: #2549D3;
+        color: white;
+        
+    }
+    
+    .feedback h3{
+        font-size: 20px;
+    
+    }
     
     
     

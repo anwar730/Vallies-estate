@@ -158,3 +158,11 @@
         padding-right: 150px;
         
     }
+
+    ours h3{
+        display: flex;
+        font-size: 30px;
+        flex-direction: column;
+        align-items: center;
+    }
+    

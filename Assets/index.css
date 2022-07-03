@@ -290,6 +290,23 @@
     .details ul{
         padding-top: 20px;
     }
+
+    .view{
+    
+        color: white;
+        display: flex;
+        justify-content: end;
+        padding-right: 120px;
+        padding-top: 100px;
+        
+    }
+    .view button{
+        background-color: #2549D3;
+        padding: 10px;
+        color: white;
+        border-radius: 10px;
+        border: none;
+    }
     
     
     

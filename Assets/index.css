@@ -327,6 +327,11 @@
         list-style: none;
     }
 
+    .feedback h3{
+        font-size: 20px;
+    
+    }
+
     .click{
         display: flex;
         justify-content: end;
@@ -356,10 +361,7 @@
         
     }
     
-    .feedback h3{
-        font-size: 20px;
     
-    }
     
     
     

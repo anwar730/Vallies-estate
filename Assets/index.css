@@ -260,4 +260,37 @@
         color: #2549D3;
         font-size: 45px;
     }
+
+    .houses ul{
+        display: flex;
+        gap: 100px;
+        align-items: center;
+        justify-content: space-around;
+        list-style: none;
+    }
+    
+    
+    
+    .houses img{
+        width: 300px;
+    }
+    .reduce-height img{
+        height: 150px;
+    }
+    .detils ul{
+        padding-top: 50px;
+    }
+    
+    .detailss ul{
+        padding-top: 20px;
+    }
+    .detaill ul{
+        padding-top: 20px;
+    }
+    .details ul{
+        padding-top: 20px;
+    }
+    
+    
+    
    

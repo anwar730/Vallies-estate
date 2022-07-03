@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&family=Space+Grotesk&display=swap');
 *{
 
     padding: 0px;
@@ -7,11 +8,12 @@
     
     
     body {
-        font-style: 'Space Grotesk, Oleo Script';
+        font-family: 'Space Grotesk';
     }
     
     .logo {
         font-size: 26px;
+        font-family: 'Oleo Script';
     }
     
     

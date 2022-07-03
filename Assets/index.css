@@ -326,6 +326,22 @@
         justify-content: space-around;
         list-style: none;
     }
+
+    .click{
+        display: flex;
+        justify-content: end;
+        padding-right: 120px;
+        
+    }
+    
+    .click button{
+        background-color: #2549D3;
+        color: white;
+        padding:10px;
+        border-radius: 10px;
+        border: none;
+        
+    }
     
     
     

@@ -137,5 +137,24 @@
         justify-content: center;
     
     }
-
+    .products{
+        display: flex;
+        flex-direction:column ;
+        align-items: center;
+        height: 150px;
+        justify-content: center;
+        
     
+    }
+    
+    .products h3{
+        color: #2549D3;
+        font-size: 30px
+    }
+
+    .ours{
+        padding-top: 10em;
+        padding-left: 150px;
+        padding-right: 150px;
+        
+    }

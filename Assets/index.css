@@ -307,6 +307,26 @@
         border-radius: 10px;
         border: none;
     }
+
+    .customers{
+        height:300px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content:end;
+    
+    }
+    
+    .customers h3{
+        color: #2549D3;
+        font-size: 45px;
+    }
+    .feedback ul{
+        display: flex;
+        justify-content: space-around;
+        list-style: none;
+    }
+    
     
     
     

@@ -64,7 +64,7 @@
     .help{
         display: flex;
         justify-content:space-around;
-        height: 500px;
+        height: 800px;
         align-items: center;
     
     }
@@ -99,10 +99,7 @@
     .box{
         height: 200px;
         align-items: center;
-        border:inset;
         background-color: white;
-        border-radius: 15px
-    
     
     
     }

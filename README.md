@@ -1,7 +1,8 @@
 # Vallies-estate
  ## By Anwar Ismail
 ## Screenshot
-![Screenshot from 2022-07-03 04-32-01](https://user-images.githubusercontent.com/107399297/177020988-5b56644f-a568-4af3-944c-d4abe6917141.png)
+![Screenshot from 2022-07-03 19-50-48](https://user-images.githubusercontent.com/107399297/177049464-a255e0f0-72fa-4061-887b-c1bd2b376b48.png)
+
 
  ## Table of Content
  - [Description](#description)
